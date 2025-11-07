@@ -13,5 +13,12 @@
 - Unit-тест для `CreateTaskCommandHandler`
 - Поддержка запуска через Docker
 
+## Как запустить
+1. Установите .NET 8
+2. Настройте PostgreSQL (или используйте Docker)
+3. Выполните:
+   ```bash
+   dotnet run
+
 
 
